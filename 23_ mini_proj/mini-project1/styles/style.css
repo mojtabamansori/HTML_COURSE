@@ -22,10 +22,10 @@ body{
     border-radius: 50%;
 }
 .title{
-    width: 160px;
+    width: 250px;
     margin: 25px auto;
     font-size: 25px;
-    border-bottom: 5px solid lightgray;
+    border-bottom: 10px solid lightgray;
     color: #4c4d4c;
 }
 .desc{
